@@ -10,7 +10,7 @@ NetGuard is a Real-Time Network Detection System (NDS) designed to bridge the ga
 
 ## ✨ **Key Features**
 
-Real-Time Sniffing: Uses the Python Scapy library in Promiscuous Mode to intercept all packets on the local network segment.Scapy requires https://npcap.com/dist/npcap-1.86.exe installation to run on Windows.
+Real-Time Sniffing: Uses the Python Scapy library in Promiscuous Mode to intercept all packets on the local network segment. Scapy requires https://npcap.com/dist/npcap-1.86.exe installation to run on Windows.
 
 5-Tuple Feature Extraction: Decapsulates packets to extract critical flow identifiers: Source IP, Destination IP, Source Port, Destination Port, and Protocol (TCP/UDP/ICMP).
 
